@@ -85,4 +85,8 @@ The app should now be running at `http://localhost:3000`.
 
 ## Video
 
-https://github.com/user-attachments/assets/20a3c5c1-9ec2-4da3-b297-62dc4e5e71cb
+https://github.com/user-attachments/assets/43ac4618-797f-489f-8afa-ed0a9d03544e
+
+
+
+
